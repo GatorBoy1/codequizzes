@@ -70,10 +70,12 @@ puts " ___And now for another 'counter' with a loop"
 
 while 3 > 15
 	puts "will not print cause boolean condition not true"
-end
+	end
 
 puts "and finally the last array exercise"
 
-while true
-	puts "This is a song that never ends"
-end
+# I commented-0ut below, as it is an ever-repeating string.
+
+# while true
+# 	puts "This is a song that never ends"
+# end
